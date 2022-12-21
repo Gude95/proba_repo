@@ -1,5 +1,5 @@
-# Guión Amogus 1 Git
-## Comandos Sus:
+# Guión 1 Git
+## Comandos:
 '''bash
 git init
 '''
@@ -14,5 +14,5 @@ git init
     comando de Git. Con los comandos (git config --global user.name "nombre") y con (git config --global user.email "correo").
     ahora comprobaremos que la ruta del terminal es la misma que la carpeta con la que estamos trabajando. Posteriormente añadiremos al git nuestro documentos con el comando (git add .) este subira todo el contenido de la carpeta. Luego utilizaremos un commit y le añadiremos un mensaje (git commit -m "mensaje").
     Con el comando git log --oneline --graph --decorate --all comprobaremos todos los commit que hagamos
-    
+
 
