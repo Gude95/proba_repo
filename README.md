@@ -42,7 +42,16 @@ git init
     * Crearemos en Git Hub un CSS de ejemplo
     * Ahora lo añadiremos a nuestro repositorio local con el comando (git pull --all)
 
-
+#Guión 2 Git:
+## Nuevos comandos
+1.git config --global color.ui auto
+    * Controla los colores de salida.
+2.git diff
+    * muestra las diferencias en el repositorio, si has modificado o añadido una nueva linea
+3.git show
+    * Similar a git diff pero este muestra las diferencias entre commits
+4.git commit --amend -m "texto"
+    * Modifica el ultimo commit añadido
 
 
 
