@@ -65,7 +65,7 @@ git init
     * Controla los colores de salida.
 2. **git diff**
     * muestra las diferencias en el repositorio, si has modificado o añadido una nueva linea
-3. git show
+3. **git show**
     * Similar a git diff pero este muestra las diferencias entre commits
 4. **git commit --amend -m "texto"**
     * Modifica el ultimo commit añadido
