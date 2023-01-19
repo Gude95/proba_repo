@@ -69,7 +69,20 @@ git init
     * Similar a git diff pero este muestra las diferencias entre commits
 4. **git commit --amend -m "texto"**
     * Modifica el ultimo commit añadido
-
+# Guión 3 Git:
+## Nuevos comandos
+1. **git reset --hard**
+    * Este comando añadiendole el codigo de un commit nos permite posicionar nuestro Head en el.
+2. **git remote remove origin** 
+    * Basicamente elimina todo la información posterior al commit que apunta HEAD
+3. **git log**
+    * git log muestra toda la información sobre los commmit realizados.
+4. **git diff HEAD~2..HEAD**
+    * con este comando podemos ver las diferencias entre el head actual y el de hace 2 commits, (el 2 del comando puedo ser cualquier numero)
+5. **git diff &lt;codigo hash de la primera version>..HEAD**
+    * Muestra las diferencias desde el commit seleccionado hasta el actual
+6. **git annotate**
+    * este comando te permite ver las modificaciones que han echo los usuarios en un archivo, muiestra el usuario la fecha y la modificación/ contenido añadido.
 
 
 
