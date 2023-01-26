@@ -136,3 +136,13 @@ git restore --stage
 13. Facemos de novo git commit -m "borrado accidental" e un git log para ver o estado do repo.
 14. Volvemos a ultima version anterior do repo utilizando o comando git reset --hard e vemos que o repo volveu o estado anterior.
 
+
+## Practica 5: Ramas
+1. **git brach**
+    *Este es el comando para añadir ranas
+2. **git branch -av
+    *Muestra las ramas del repositorio
+3. **git checkout master**
+    *Fusionar la rama con la rama master.
+4. **git branch -d
+    *elimina la rama
